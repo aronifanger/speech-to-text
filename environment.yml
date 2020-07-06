@@ -1,0 +1,40 @@
+name: speech
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=0_gnu
+  - astroid=2.4.2=py38h32f6830_0
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py38h32f6830_0
+  - isort=4.3.21=py38h32f6830_1
+  - lazy-object-proxy=1.4.3=py38h1e0a361_2
+  - ld_impl_linux-64=2.34=h53a641e_5
+  - libffi=3.2.1=he1b5a44_1007
+  - libgcc-ng=9.2.0=h24d8f2e_2
+  - libgomp=9.2.0=h24d8f2e_2
+  - libstdcxx-ng=9.2.0=hdf63c60_2
+  - mccabe=0.6.1=py_1
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.1.1g=h516909a_0
+  - pip=20.1.1=py_1
+  - portaudio=19.6.0=h7b6447c_4
+  - pyaudio=0.2.11=py38h7b6447c_2
+  - pylint=2.5.3=py38h32f6830_0
+  - python=3.8.3=cpython_he5300dc_0
+  - python_abi=3.8=1_cp38
+  - readline=8.0=hf8c457e_0
+  - setuptools=49.1.0=py38h32f6830_0
+  - six=1.15.0=pyh9f0ad1d_0
+  - speechrecognition=3.6.3=py38_1000
+  - sqlite=3.32.3=hcee41ef_0
+  - tk=8.6.10=hed695b0_0
+  - toml=0.10.1=pyh9f0ad1d_0
+  - wheel=0.34.2=py_1
+  - wrapt=1.11.2=py38h1e0a361_0
+  - xz=5.2.5=h516909a_0
+  - zlib=1.2.11=h516909a_1006
+prefix: /home/aronifanger/miniconda3/envs/speech
+
